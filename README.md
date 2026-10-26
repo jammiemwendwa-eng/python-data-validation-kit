@@ -14,7 +14,7 @@ primitives — no magic, no ORMs, no hidden dependencies.
 
 Early scaffold. Core validators in progress.
 
-## Roadmap
+## `Roadmap`
 
 - [ ] Add EmailValidator
 - [ ] Add PhoneValidator
