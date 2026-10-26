@@ -8,3 +8,14 @@ without pulling in pydantic or similar.
 
 A learning reference for how validation can be built from Python
 primitives — no magic, no ORMs, no hidden dependencies.
+
+
+## Status
+
+Early scaffold. Core validators in progress.
+
+## Roadmap
+
+- [ ] Add EmailValidator
+- [ ] Add PhoneValidator
+- [ ] Add DateValidator
