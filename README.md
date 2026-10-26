@@ -19,3 +19,5 @@ Early scaffold. Core validators in progress.
 - [ ] Add EmailValidator
 - [ ] Add PhoneValidator
 - [ ] Add DateValidator
+
+# Exceptions
