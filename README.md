@@ -21,3 +21,9 @@ Early scaffold. Core validators in progress.
 - [ ] Add DateValidator
 
 # Exceptions
+
+## Usage
+```python
+from src.engine import validate_schema
+from src.numbers import validate_positive
+validate_schema({"age": 25}, {"age": validate_positive})
