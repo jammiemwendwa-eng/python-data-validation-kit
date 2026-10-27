@@ -1,3 +1,4 @@
 validate_email
 validate_phone
 validate_password
+raise InvalidFormatError
