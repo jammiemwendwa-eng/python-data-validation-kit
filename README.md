@@ -1,5 +1,6 @@
 # Python Data Validation Kit
 
+
 Dependency-free validators for common data types, using dataclasses,
 type hints, and custom exceptions. Designed to be readable and testable
 without pulling in pydantic or similar.
